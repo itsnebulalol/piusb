@@ -1,3 +1,4 @@
+
 # piUSB
 
 Turn your \$10 Raspberry Pi Zero into a web USB stick!
@@ -8,8 +9,8 @@ Turn your \$10 Raspberry Pi Zero into a web USB stick!
 
 -   Windows, Mac, or Linux computer
 -   Internet connection
--   Raspberry Pi Zero (Wifi model not needed, but highly recomended)
--   16gb+ micro SD card (We always recomend Samsung SD cards)
+-   Raspberry Pi Zero (Wifi model not needed, but highly recommended)
+-   16gb+ micro SD card (We always recommend Samsung SD cards)
 -   SSH client (Older versions of Windows only)
 -   **[OPTIONAL]** VNC Viewer
 
@@ -50,7 +51,7 @@ Turn your \$10 Raspberry Pi Zero into a web USB stick!
 6. Type `cd /var/www`
 7. Now, you can type `sudo wget https://download.owncloud.org/community/owncloud-complete-20200731.zip` to start downloading Owncloud
 8. To unzip Owncloud, type in `sudo unzip owncloud-complete-20200731.zip`
-9. Now navagate your browser to `http://raspberrypi.local` (or a different hostname if you changed it before)
+9. Now navigate your browser to `http://raspberrypi.local` (or a different hostname if you changed it before)
 10. Select "Owncloud"
 11. Type in a username and password, and make sure "Storage & database" is dropped down
 12. Scroll down a little bit until you see the database information
@@ -60,4 +61,5 @@ Turn your \$10 Raspberry Pi Zero into a web USB stick!
 16. Login with the details you made in step 11.
 17. Done! You have set up Owncloud!
 
-## If you have any problems, you can leave a GitHub issue.
+<h3 align="center">If you have any problems, you can leave a GitHub issue.</h3>
+<p align="center">Create a GitHub issue with the "Problem" template.</p>
