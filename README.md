@@ -11,7 +11,7 @@ Turn your \$10 Raspberry Pi Zero into a web USB stick!
 -   Raspberry Pi Zero (Wifi model not needed, but highly recomended)
 -   16gb+ micro SD card (We always recomend Samsung SD cards)
 -   SSH client (Older versions of Windows only)
--   [OPTIONAL] VNC Viewer
+-   **[OPTIONAL]** VNC Viewer
 
 ## Installation
 
